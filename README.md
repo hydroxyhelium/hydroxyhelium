@@ -31,7 +31,7 @@
   </p>
 </div>
 
-- 🔭 I’m currently working on:- Javascript Machiene Learning Library
+- 🔭 I’m currently working on:- Javascript Machine Learning Library
 - 🌱 I’m currently learning:- Markov Chains, Three JS
 - 👯 I’m looking to collaborate on:- .....
 - 🤔 I’m looking for help with:- React Fiber
