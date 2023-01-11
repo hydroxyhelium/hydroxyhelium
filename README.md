@@ -32,7 +32,7 @@
 </div>
 
 - 🔭 I’m currently working on:- Javascript Machine Learning Library
-- 🌱 I’m currently learning:- Markov Chains, Three JS
+- 🌱 I’m currently learning:- Markov Decision Process, Reinforcement Learning
 - 👯 I’m looking to collaborate on:- .....
 - 🤔 I’m looking for help with:- React Fiber
 - 💬 Ask me about:- Open AI GPT3, Nueral Networks, 
