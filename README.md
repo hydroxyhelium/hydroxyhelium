@@ -30,12 +30,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydroxyhelium&theme=dark&layout=compact" />
   </p>
 </div>
-
-- 🔭 I’m currently working on:- Javascript Machine Learning Library
-- 🌱 I’m currently learning:- Markov Decision Process, Reinforcement Learning
-- 👯 I’m looking to collaborate on:- .....
-- 🤔 I’m looking for help with:- React Fiber
-- 💬 Ask me about:- Open AI GPT3, Nueral Networks, 
-- 📫 How to reach me: shoot up a message at p245shar@uwaterloo.ca, I love meeting new people.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am big time gym and rock climbing enthusiast.
